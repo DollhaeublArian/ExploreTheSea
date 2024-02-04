@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    width: 100%;
+    height: 700vh;
+}
+
+
+#header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.container
+{
+    margin-top: 23rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 5rem;
+}
+.block {
+    width: 35%;
+    color: white;
+    border: white solid 4px;
+    padding: 20px;
+    margin-left: 10rem;
+    text-align: center;
+}
+
+#footer {
+    background-color: #34495e;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+section
+{
+    margin-top: 8rem;
+}
+section > h1
+{
+    color: white;
+    padding-right: 10rem;
+}
+
+body {
+    background: linear-gradient(to bottom, rgba(0, 123, 255, 1), rgba(0, 0, 139, 1),  rgba(0, 0, 0, 1), rgba(48, 25, 52, 1), rgba(0, 12, 48, 1));
+    background-attachment: scroll;
+}
+
+img{
+    width: 20rem;
+    height: 20rem;
+}
+
+span > a {
+    text-underline: none;
+    text-decoration: none;
+    color: white;
+}
+
+span
+{
+    padding: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+#sun
+{
+    float: right;
+    height: 6rem;
+    width: 6rem;
+}
+
+#epipelagic, #mesopelagic ,#bathypelagic,#abyssopelagic,#hadopelagic
