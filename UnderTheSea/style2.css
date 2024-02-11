@@ -8,6 +8,11 @@
     margin: 0;
     height: 100vh;
 }
+.body-color-bathypelagic {
+    background-color: rgba(0, 0, 0, 1);
+    margin: 0;
+    height: 100vh;
+}
 
 img {
     height: 2500px;
