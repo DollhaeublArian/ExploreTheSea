@@ -15,13 +15,14 @@
 }
 
 img {
-    height: 2500px;
-    width: 2000px
+    height: 100%;
+    width: 100%;
 
 }
 
 .rowformat {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
